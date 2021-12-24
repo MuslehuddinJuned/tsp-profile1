@@ -1755,6 +1755,13 @@ ul,li{
 	padding-left: 20px;
 	transition:all 500ms ease;
 }
+
+.selected {
+	color: #ffffff !important;
+	background: #72c02c;
+	padding-left: 20px;
+	transition:all 500ms ease;
+}
 .service-details .item-holder .section-title h2{
 	margin-top: 45px;
 }
